@@ -23,7 +23,7 @@ Tato stránka je stylována pomocí SASS/SCSS, kde jsem využili následující 
 
 ## Kontakt
 
-Jestli máte nějaké dotazy nebo chcete sdílet své bláznivé nápady, neváhejte mě kontaktovat:
+Jestli máte nějaké dotazy nebo chcete sdílet své nápady, neváhejte mě kontaktovat:
 
 - Email: jakub.kovacik022@skolavdf.cz
 - Telefon: +XXX XXX XXX XXX
